@@ -1,4 +1,4 @@
-### Hey y'all! 👋 My name is Gino, a little about me:
+### Hey y'all! 👋 My name is Gino! A little about me:
 
 - 🔭 I’m currently working on spacem8s, a task manger application, and Glow, a colorful food intake tracker!
 - 😄 Pronouns: He/Him
