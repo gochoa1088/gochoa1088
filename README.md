@@ -1,4 +1,10 @@
 ### Hey y'all! 👋 My name is Gino! A little about me:
+
+- 🔭 I’m currently working on spacem8s, a task manger application, and Glow, a colorful food intake tracker!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to own a pizza restaurant! Ask me about it!
+
+- 📫 How to reach me: gochoa1088@gmail.com
 <!--
 **gochoa1088/gochoa1088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
