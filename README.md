@@ -1,6 +1,6 @@
 ### Hey y'all! 👋 My name is Gino! A little about me:
 
-- 🔭 I’m currently working on spacem8s, a task manger application, and Glow, a colorful food intake tracker!
+- 🔭 I’m currently working on teamApp, a job application manager!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to own a pizza restaurant! Ask me about it!
 
