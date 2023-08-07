@@ -31,7 +31,7 @@
 
 <h2> Stats </h2>
 
-![Gino's GitHub stats](https://github-readme-stats.vercel.app/api?username=gochoa1088&show_icons=true&theme=transparent&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gochoa1088)](https://github.com/gochoa1088/github-readme-stats)
+![Gino's GitHub stats](https://github-readme-stats.vercel.app/api?username=gochoa1088&show_icons=true&theme=transparent&line_height=40&PAT_1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gochoa1088&PAT_1)](https://github.com/gochoa1088/github-readme-stats&PAT_1)
 
 <h2> Socials </h2>
 
