@@ -29,10 +29,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
-<h2> Stats </h2>
-
-![Gino's GitHub stats](https://github-readme-stats.vercel.app/api?username=gochoa1088&show_icons=true&theme=transparent&line_height=40&PAT_1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gochoa1088&PAT_1)](https://github.com/gochoa1088/github-readme-stats&PAT_1)
-
 <h2> Socials </h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gino-ochoa)
