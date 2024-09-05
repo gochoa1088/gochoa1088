@@ -1,6 +1,6 @@
 <h2>Hey y'all! 👋 My name is Gino! A little about me:</h2>
 
-- 🔭 I’m currently working on teamApp, a job application manager!
+- 🔭 I’m currently working on Cohabi, a room rental property management app!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to own a pizza restaurant! Ask me about it!
 
